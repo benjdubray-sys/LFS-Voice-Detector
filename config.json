@@ -1,0 +1,19 @@
+{
+  "PTT_KEY": "alt+f9",
+  "JOY_INDEX": 1,
+  "JOY_BUTTON": 2,
+  "JOY_LANG_BUTTONS": {
+    "4": "en"
+  },
+  "LANGUAGE": null,
+  "ALLOWED_LANGUAGES": [
+    "fr",
+    "en"
+  ],
+  "MODEL_SIZE": "small",
+  "DEVICE": "cpu",
+  "COMPUTE_TYPE": "int8",
+  "USE_INSIM": false,
+  "CHAT_CLEAN_DELAY": 0.15,
+  "LFS_EXE": "F:\\LFS\\LFS\\LFS.exe"
+}
