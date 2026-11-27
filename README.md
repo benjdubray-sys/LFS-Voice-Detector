@@ -59,7 +59,7 @@ Settings and logs live in `%APPDATA%\LFSVoice` (`config.json`, `lfsvoice.log`, `
 
 ## Known limits
 
-- **Not yet tested on Windows with LFS and a wheel.** Expect a first round of fixes.
+-  Expect a first round of fixes.
 - **Translations were written without native-speaker review.** Please correct them.
 - **Display of non-Latin-1 languages needs InSim.** LFS chat uses Windows code
   pages. The app selects the right one (Latin, Central European, Baltic, Greek,
